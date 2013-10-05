@@ -1,0 +1,4 @@
+Fitocracy
+=========
+
+Motivation, friends, exercise
